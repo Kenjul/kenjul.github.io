@@ -28,12 +28,11 @@ header {
 }
 h1, h2, h3, ol, ul, p {
    color: white;
-   text-align: center;
+   text-align: left;
    
 }
 
 nav {
-   float: right;
    font-family: Arial, sans-serif;
    font-size: 14px;
  
