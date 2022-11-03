@@ -8,7 +8,7 @@ a:visited {
   color: purple;
 }
   
-body, header {
+body {
     background-color: black;
     font-family: Arial, sans-serif;
     font-size: 14px;
@@ -19,6 +19,10 @@ body, header {
   
 }
    
+header {
+    background-color: teal;
+    
+}
 h1, h2, h3, ol, ul, p {
    color: white;
    text-align: left;
@@ -27,7 +31,6 @@ h1, h2, h3, ol, ul, p {
 
 nav {
    float: right;
-   background-color: teal;
    font-family: Arial, sans-serif;
    font-size: 14px;
  
