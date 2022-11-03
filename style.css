@@ -16,6 +16,7 @@ body {
     width: 500px; 
     padding: 50px;
     
+    
   
 }
    
@@ -27,7 +28,7 @@ header {
 }
 h1, h2, h3, ol, ul, p {
    color: white;
-   text-align: left;
+   text-align: center;
    
 }
 
