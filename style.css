@@ -11,15 +11,27 @@ a:visited {
 body, header, nav {
     background-color: black;
     font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    
   
 }
    
 h1, h2, h3, ol, ul, p {
    color: white;
+   text-align: center;
    
 }
 
 nav {
-float: right;
+   float: right;
  
 }
+
+id {
+  
+  
+}
+
